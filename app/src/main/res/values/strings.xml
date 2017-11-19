@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">chat apps</string>
+    <string name="post">POST</string>
+    <string name="get">GET</string>
+    <string name="video">VIDEO</string>
+    <string name="nama">Moh. Aufal Marom Arrozi</string>
+    <string name="asal">Universitas Diponegoro</string>
+    <string name="desc">Description</string>
+    <string name="price">Price</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+</resources>
